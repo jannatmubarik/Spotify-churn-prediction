@@ -1,6 +1,6 @@
 # Spotify User Churn Prediction
 
-Predicting Spotify user churn using supervised and unsupervised machine learning — behavioral analysis with actionable retention strategies.
+Predicting Spotify user churn using LASSO, Random Forest, Neural Networks, and K-Means clustering on a synthetic dataset of ~10,000 users. Identifies key behavioral churn drivers — skip rate, listening time, offline engagement, and subscription type, and delivers data-driven retention strategies for Free/Student and Premium/Family user segments. Best model (LASSO) achieves AUC of 0.889 and ~80% accuracy.
 
 ---
 
